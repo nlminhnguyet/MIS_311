@@ -1,44 +1,39 @@
 # MIS_311
-# 🌐 Cost of Living Dataset Analysis
+#  Cost of Living Dataset Analysis
 
 This repository presents an analysis of the **Cost of Living** dataset, which provides insight into income levels and essential living expenses across various countries and regions from **2000 to 2023**. The analysis covers data cleaning, descriptive statistics, and key economic insights.
 
 ---
 
-## 📁 1. Dataset Overview
+##  1. Dataset Overview
 
 The **Cost of Living** dataset offers a comprehensive look at how **average monthly income** and **cost of living** vary across different countries and time periods. It allows for cross-country and regional comparison of affordability and financial stability.
 
 - **Dimensions:** 202 rows × 5 columns
 
-### 🔍 Column Descriptions
+###  Column Descriptions
 
-| Column Name             | Description                                                                 |
-|-------------------------|-----------------------------------------------------------------------------|
-| `Country`               | Name of the country (e.g., Australia, India, Russia, South Africa, Brazil) |
-| `Year`                  | Year the data was recorded (2000–2023)                                      |
-| `Average_Monthly_Income`| Average monthly income per person (in USD)                                 |
-| `Cost_of_Living`        | Estimated monthly living expenses per person (in USD)                      |
-| `Region`                | Geographic region (e.g., Asia, Europe, Africa, etc.)                        |
+<img width="652" height="487" alt="{C32D3DDF-7136-4407-81D1-C03EDD13A6A4}" src="https://github.com/user-attachments/assets/9560c8f5-b60e-4e04-97cb-a715845e8ce2" />
+
 
 > ℹ️ **Data Source**:  
 > While not explicitly cited, the dataset’s structure suggests it is compiled from reputable sources such as the **World Bank**, **IMF**, **ILO**, and **Numbeo**. These organizations are known for publishing standardized economic data, and the dataset likely draws from a mix of **official statistics and crowd-sourced insights**.
 
 ---
 
-## 🧹 2. Data Cleaning
+##  2. Data Cleaning
 
 <img width="751" height="153" alt="{9912AD21-C065-4F18-B1BF-8515859B88C8}" src="https://github.com/user-attachments/assets/0c6c5b4f-9842-4f0c-93be-bba2085f5e3c" />
 
 
-### 🔁 Duplicate Records
+###  Duplicate Records
 - **Issue:** 2 duplicate entries were found.
 - **Action:** Removed using the “Remove Duplicates” function.
 - **Result:** Dataset reduced to **200 unique country-year records**.
 
-> ✅ This ensures that each record reflects a distinct and accurate observation without biasing the analysis.
+>  This ensures that each record reflects a distinct and accurate observation without biasing the analysis.
 
-### ❓ Missing Values
+###  Missing Values
 
 <img width="752" height="83" alt="{2D1CD998-04F0-4B41-9DE9-3BD41431A237}" src="https://github.com/user-attachments/assets/b363e5bb-7c73-45a9-b2f2-d855be655769" />
 
@@ -58,18 +53,16 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 
 ---
 
-## 📊 3. Descriptive Statistics
+##  3. Descriptive Statistics
 
-| Metric                  | Income (USD) | Cost of Living (USD) |
-|-------------------------|--------------|-----------------------|
-| **Mean**                | $4,244.00     | $3,705.00              |
-| **Standard Deviation**  | $2,116.64     | $1,982.22              |
+<img width="751" height="290" alt="{079BEB9B-7F2A-4F24-8C10-AC3D0399CA23}" src="https://github.com/user-attachments/assets/797f3b43-8fc5-4748-9d4b-73366ed87cf0" />
+
 
 > 📌 High standard deviations indicate **significant variation** in income and cost of living across countries—highlighting economic diversity worldwide.
 
 ---
 
-## 💡 4. Key Insights
+##  4. Key Insights
 
 ### 🔹 Insight 1: Weak Correlation Between Income and Living Costs
 
