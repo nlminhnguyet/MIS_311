@@ -37,8 +37,7 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 
 <img width="747" height="87" alt="{8AC85C56-3E3C-4997-891F-49D9BD698E87}" src="https://github.com/user-attachments/assets/4a2aca86-d792-44a5-a528-c94d065c35d8" />
 
-
-<img width="929" height="98" alt="{9C41C580-EAA5-40C1-AB5D-CD91BA5EEC97}" src="https://github.com/user-attachments/assets/7e7955de-734b-4bc7-8db3-d1d71376dac5" />
+<img width="753" height="110" alt="{89652458-02E3-4BC8-BC5D-EEF27B6CDF08}" src="https://github.com/user-attachments/assets/c3f57580-636b-40c0-ace6-214a35b244ff" />
 
 
 #### ➤ `Average_Monthly_Income`
