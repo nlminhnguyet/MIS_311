@@ -61,7 +61,7 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 <img width="751" height="290" alt="{079BEB9B-7F2A-4F24-8C10-AC3D0399CA23}" src="https://github.com/user-attachments/assets/797f3b43-8fc5-4748-9d4b-73366ed87cf0" />
 
 
-> 📌 High standard deviations indicate **significant variation** in income and cost of living across countries—highlighting economic diversity worldwide.
+>  High standard deviations indicate **significant variation** in income and cost of living across countries—highlighting economic diversity worldwide.
 
 ---
 
@@ -75,7 +75,7 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 - Some nations with **high living costs** do **not necessarily** offer high incomes.
 - Conversely, some countries with **low costs** show relatively **high income levels**.
 
-> 🧠 This suggests that **income and expenses are influenced by separate economic forces** in different countries.
+>  This suggests that **income and expenses are influenced by separate economic forces** in different countries.
 
 ---
 
@@ -87,11 +87,11 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
   - **Europe** and **Asia** lead in overall income and expenses, reflecting **high economic activity**.
   - **North America** shows a **smaller gap** between income and living costs, hinting at **tighter financial margins**.
 
-> 🌎 These differences underscore how **regional economic structures and living standards** influence financial stability and potential savings.
+>  These differences underscore how **regional economic structures and living standards** influence financial stability and potential savings.
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The **Cost of Living** dataset provides meaningful insights into **global economic conditions** by examining the balance between income and expenses. Through careful data cleaning, statistical analysis, and visualization, we can identify patterns of inequality, financial health, and affordability across the world.
 
