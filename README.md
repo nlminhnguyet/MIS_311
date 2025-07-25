@@ -28,6 +28,9 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 
 ## 🧹 2. Data Cleaning
 
+<img width="751" height="153" alt="{9912AD21-C065-4F18-B1BF-8515859B88C8}" src="https://github.com/user-attachments/assets/0c6c5b4f-9842-4f0c-93be-bba2085f5e3c" />
+
+
 ### 🔁 Duplicate Records
 - **Issue:** 2 duplicate entries were found.
 - **Action:** Removed using the “Remove Duplicates” function.
@@ -37,9 +40,14 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 
 ### ❓ Missing Values
 
+<img width="752" height="83" alt="{2D1CD998-04F0-4B41-9DE9-3BD41431A237}" src="https://github.com/user-attachments/assets/b363e5bb-7c73-45a9-b2f2-d855be655769" />
+
+
 #### ➤ `Average_Monthly_Income`
 - **Rows Affected:** 160 and 176  
 - **Solution:** Imputed using the **median**, which is more robust against outliers compared to the mean.
+
+  <img width="747" height="78" alt="{E1B2F90C-202E-4FC7-9E44-B2B8AC150275}" src="https://github.com/user-attachments/assets/8c8be4ef-8bc6-4fba-9ba0-7d94eded71ec" />
 
 #### ➤ `Region`
 - **Rows Affected:** 26 and 38  
