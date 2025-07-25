@@ -52,7 +52,7 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 - **Fix:** Verified and updated based on known country classification.  
   - Example: **Mexico** was correctly assigned to **North America**.
 
-> 🛠️ These steps enhanced the **completeness, accuracy, and consistency** of the dataset.
+>  These steps enhanced the **completeness, accuracy, and consistency** of the dataset.
 
 ---
 
@@ -67,7 +67,7 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 
 ##  4. Key Insights
 
-### 🔹 Insight 1: Weak Correlation Between Income and Living Costs
+###  Insight 1: Weak Correlation Between Income and Living Costs
 
 <img width="927" height="353" alt="{B12412C3-7B3C-4BEE-84F9-37127307467E}" src="https://github.com/user-attachments/assets/a3e2b090-a623-4e08-8fab-78ecf0979104" />
 
@@ -79,7 +79,7 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 
 ---
 
-### 🔹 Insight 2: Regional Financial Disparities
+###  Insight 2: Regional Financial Disparities
 
 <img width="755" height="376" alt="{B09630EB-9871-42D9-9A7A-7A80C09EE364}" src="https://github.com/user-attachments/assets/82324e7e-bf0f-4852-959d-6df940dd64b2" />
 
