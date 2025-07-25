@@ -35,12 +35,16 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 
 ###  Missing Values
 
-<img width="752" height="83" alt="{2D1CD998-04F0-4B41-9DE9-3BD41431A237}" src="https://github.com/user-attachments/assets/b363e5bb-7c73-45a9-b2f2-d855be655769" />
+<img width="747" height="87" alt="{8AC85C56-3E3C-4997-891F-49D9BD698E87}" src="https://github.com/user-attachments/assets/4a2aca86-d792-44a5-a528-c94d065c35d8" />
+
+
+<img width="929" height="98" alt="{9C41C580-EAA5-40C1-AB5D-CD91BA5EEC97}" src="https://github.com/user-attachments/assets/7e7955de-734b-4bc7-8db3-d1d71376dac5" />
 
 
 #### ➤ `Average_Monthly_Income`
 - **Rows Affected:** 160 and 176  
 - **Solution:** Imputed using the **median**, which is more robust against outliers compared to the mean.
+<img width="752" height="83" alt="{2D1CD998-04F0-4B41-9DE9-3BD41431A237}" src="https://github.com/user-attachments/assets/b363e5bb-7c73-45a9-b2f2-d855be655769" />
 
   <img width="747" height="78" alt="{E1B2F90C-202E-4FC7-9E44-B2B8AC150275}" src="https://github.com/user-attachments/assets/8c8be4ef-8bc6-4fba-9ba0-7d94eded71ec" />
 
