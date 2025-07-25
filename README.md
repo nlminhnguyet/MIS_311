@@ -65,6 +65,8 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 
 ### 🔹 Insight 1: Weak Correlation Between Income and Living Costs
 
+<img width="927" height="353" alt="{B12412C3-7B3C-4BEE-84F9-37127307467E}" src="https://github.com/user-attachments/assets/a3e2b090-a623-4e08-8fab-78ecf0979104" />
+
 - A **scatter plot** of income vs. cost of living reveals **no strong linear relationship**.
 - Some nations with **high living costs** do **not necessarily** offer high incomes.
 - Conversely, some countries with **low costs** show relatively **high income levels**.
@@ -74,6 +76,8 @@ The **Cost of Living** dataset offers a comprehensive look at how **average mont
 ---
 
 ### 🔹 Insight 2: Regional Financial Disparities
+
+<img width="755" height="376" alt="{B09630EB-9871-42D9-9A7A-7A80C09EE364}" src="https://github.com/user-attachments/assets/82324e7e-bf0f-4852-959d-6df940dd64b2" />
 
 - A **bar chart** comparing regional totals shows:
   - **Europe** and **Asia** lead in overall income and expenses, reflecting **high economic activity**.
